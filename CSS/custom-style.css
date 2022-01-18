@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+
+/*** Global ***/
+body {font-size:20px;font-family:'outfit', sans-serif; font-weight:normal; font-style:normal;}
+.nav-link {font-size: 15px;}
+.navbar-brand {color: #af805c !important}
+.golden { color:#af805c !important; font-weight:bold}
+
+/***** Top content *****/
+ 
+.top-content {
+    padding: 150px 0;
+}
+  
+.top-content h1 {
+    color: #FFF;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#scroll-down
+{
+    color: #af805c;
+    text-decoration: none;
+    font-size: 22px;
+    margin-left: 45%;
+    font-weight: bold;
+}
+
+/* WHO WE ARE */
+.who-we-are
+{
+    background-color: #af805c;
+    padding: 300px;
+}
+.who-we-are .text
+{
+    color: #FFF;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* What we offer */
+.what-we-offer
+{
+    background-color: #FFF;
+    padding: 250px;
+}
+.what-we-offer h2{
+    color: #af805c !important;
+    font-style: normal;
+    font-weight: bolder;
+}
+.what-we-offer .text
+{
+    color: #af805c;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
